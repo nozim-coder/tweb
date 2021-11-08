@@ -30,8 +30,8 @@ function App() {
   return (
     <div className="App">
       <h3>Count: </h3>
-      <Button color="danger">+</Button>
-      <Button color="success">+</Button>
+      <Button color="danger">+Button</Button>
+      <Button color="success">+Click</Button>
 
       
 
