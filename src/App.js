@@ -66,7 +66,7 @@ function App() {
         <Toggle />
         <Targeven/>
         <ReactContentLoader/> */}
-        <h1>Hello World in Uzbekistan1</h1>
+        <h1>Hello World in Uzbekistan1200</h1>
       <div className="apps w-50 mx-auto">
         <PostForm createPost={createPost} />
         <FilterAndSearch filter={filter} setFilter={setFilter} />
