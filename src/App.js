@@ -85,12 +85,12 @@ function App() {
 
 export default App;
 
-{
-  /* <script src="http://localhost:8097"></script> */
-}
-{
-  /* <script src="http://192.168.1.2:8097"></script> */
-}
+// {
+//   /* <script src="http://localhost:8097"></script> */
+// }
+// {
+//   /* <script src="http://192.168.1.2:8097"></script> */
+// }
 // port: 8097
 
 // Bu useReflar bilan ishlash
@@ -109,11 +109,11 @@ export default App;
 //   return <input {...props} ref={ref} />;
 // });
 
-{
-  /* <MyInput
-  ref={inputRef}
-  type="text"
-  className="form-control my-3"
-  placeholder="Enter your favourite stack"
-/>; */
-}
+// {
+//   /* <MyInput
+//   ref={inputRef}
+//   type="text"
+//   className="form-control my-3"
+//   placeholder="Enter your favourite stack"
+// />; */
+// }
